@@ -26,9 +26,9 @@ class EviL:
         self.system = "Windows 11, x64"
 
     def socials(self):
-        self.discord = "fqci"
+        self.discord = "milfsexual"
         self.telegram = "milfsexual"
-        self.instgram = "53u3e"
+        self.instgram = "66dns"
 
 
 if __name__ == "__main__":
