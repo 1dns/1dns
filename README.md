@@ -1,10 +1,8 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/701582534449823834)](https://discord.com/users/701582534449823834)
+[![Discord Presence](https://lanyard.cnrad.dev/api/965935387375702017?showDisplayName=true&theme=dark)](https://discord.com/users/965935387375702017)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F725&width=435&lines=Hi+I+Am+EviL+A+16y%2Fo+Developer)](https://git.io/typing-svg)
 
-• Discord - [EviL](https://discord.com/users/701582534449823834)
-
-• Instagram - [Yash](https://instagram.com/asfyash)
+• Discord - [EviL](https://discord.com/users/965935387375702017)
 <h3 align="center">
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
     📖 Student | 🐍 Intermediate Python Developer
